@@ -20,5 +20,8 @@ public class Main {
     login.setVisible(true);
     //luis tu mama
     //tu amama de nuevo
+     //luis tu mama
+    //tu papa
+
     }
 }
